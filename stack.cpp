@@ -1,3 +1,5 @@
+// Stack with exception
+
 #include <iostream>
 using namespace std;
 
